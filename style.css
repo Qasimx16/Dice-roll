@@ -1,0 +1,32 @@
+#group {
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1 {
+    background-color: rgb(63, 130, 107);
+    text-align: center;
+    border: 20px 20px;
+    width: 70%;
+    display: block;
+}
+
+button {
+    font-size: 1.5rem;
+    border-radius: 15px;
+    padding: 7px 7px;
+    border: none;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+input {
+    font-size: 1rem;
+    text-align: center;
+}
+
+#DiceImage img {
+    width: 20%;
+}
